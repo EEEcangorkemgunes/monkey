@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="19951" Y="26950"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="19439" Y="26438"/>
+				<Coordinate Order="1" X="20463" Y="26438"/>
+				<Coordinate Order="2" X="20463" Y="27462"/>
+				<Coordinate Order="3" X="19439" Y="27462"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_1" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="20975" Y="26950"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_1" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="20463" Y="26438"/>
+				<Coordinate Order="1" X="21487" Y="26438"/>
+				<Coordinate Order="2" X="21487" Y="27462"/>
+				<Coordinate Order="3" X="20463" Y="27462"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="ROI_350" Type="Polygon" PartOfGroup="None" Color="#73d216">
+			<Coordinates>
+				<Coordinate Order="0" X="19998.416" Y="28198.0957"/>
+				<Coordinate Order="1" X="20482.6914" Y="28239.3691"/>
+				<Coordinate Order="2" X="20862.4082" Y="28052.2617"/>
+				<Coordinate Order="3" X="21280.6465" Y="27829.3848"/>
+				<Coordinate Order="4" X="21817.2031" Y="27675.2969"/>
+				<Coordinate Order="5" X="22056.5898" Y="27353.3633"/>
+				<Coordinate Order="6" X="22081.3535" Y="26687.4844"/>
+				<Coordinate Order="7" X="21957.5332" Y="26362.7988"/>
+				<Coordinate Order="8" X="21808.9492" Y="26164.6855"/>
+				<Coordinate Order="9" X="21010.9941" Y="26054.623"/>
+				<Coordinate Order="10" X="20174.5156" Y="26183.9453"/>
+				<Coordinate Order="11" X="19778.2891" Y="26189.4492"/>
+				<Coordinate Order="12" X="19244.4844" Y="26519.6387"/>
+				<Coordinate Order="13" X="19183.9512" Y="27314.8418"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

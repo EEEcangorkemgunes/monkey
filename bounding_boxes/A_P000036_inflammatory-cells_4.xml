@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="BB_23941" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="447" Y="646"/>
+				<Coordinate Order="1" X="463" Y="646"/>
+				<Coordinate Order="2" X="463" Y="662"/>
+				<Coordinate Order="3" X="447" Y="662"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_23942" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="377" Y="106"/>
+				<Coordinate Order="1" X="401" Y="106"/>
+				<Coordinate Order="2" X="401" Y="130"/>
+				<Coordinate Order="3" X="377" Y="130"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_23943" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="610" Y="275"/>
+				<Coordinate Order="1" X="634" Y="275"/>
+				<Coordinate Order="2" X="634" Y="299"/>
+				<Coordinate Order="3" X="610" Y="299"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

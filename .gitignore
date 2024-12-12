@@ -1,0 +1,12 @@
+images
+.venv
+
+detectron2
+
+patches
+
+models
+
+bounding_boxes_images
+
+annotations

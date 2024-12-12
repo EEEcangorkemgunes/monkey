@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="9069" Y="51239"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="8557" Y="50727"/>
+				<Coordinate Order="1" X="9581" Y="50727"/>
+				<Coordinate Order="2" X="9581" Y="51751"/>
+				<Coordinate Order="3" X="8557" Y="51751"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_1" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="10093" Y="51239"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_1" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="9581" Y="50727"/>
+				<Coordinate Order="1" X="10605" Y="50727"/>
+				<Coordinate Order="2" X="10605" Y="51751"/>
+				<Coordinate Order="3" X="9581" Y="51751"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_2" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="9069" Y="52263"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_2" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="8557" Y="51751"/>
+				<Coordinate Order="1" X="9581" Y="51751"/>
+				<Coordinate Order="2" X="9581" Y="52775"/>
+				<Coordinate Order="3" X="8557" Y="52775"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_3" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="10093" Y="52263"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_3" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="9581" Y="51751"/>
+				<Coordinate Order="1" X="10605" Y="51751"/>
+				<Coordinate Order="2" X="10605" Y="52775"/>
+				<Coordinate Order="3" X="9581" Y="52775"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="ROI_117" Type="Polygon" PartOfGroup="None" Color="#73d216">
+			<Coordinates>
+				<Coordinate Order="0" X="10203.123" Y="50568.4492"/>
+				<Coordinate Order="1" X="9197.82422" Y="50415.0469"/>
+				<Coordinate Order="2" X="8323.08496" Y="50343.2383"/>
+				<Coordinate Order="3" X="7911.82617" Y="50388.9336"/>
+				<Coordinate Order="4" X="7696.40527" Y="50679.4258"/>
+				<Coordinate Order="5" X="7533.20752" Y="51874.0312"/>
+				<Coordinate Order="6" X="7565.84717" Y="52579.0469"/>
+				<Coordinate Order="7" X="7853.0752" Y="52843.4258"/>
+				<Coordinate Order="8" X="8874.69336" Y="53146.9766"/>
+				<Coordinate Order="9" X="9527.48438" Y="53293.8516"/>
+				<Coordinate Order="10" X="10095.4121" Y="53280.7969"/>
+				<Coordinate Order="11" X="10539.3096" Y="52977.25"/>
+				<Coordinate Order="12" X="10914.665" Y="52393.0"/>
+				<Coordinate Order="13" X="11002.791" Y="51668.4023"/>
+				<Coordinate Order="14" X="11123.5576" Y="51348.5352"/>
+				<Coordinate Order="15" X="11087.6543" Y="50966.6523"/>
+				<Coordinate Order="16" X="10862.4414" Y="50741.4414"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

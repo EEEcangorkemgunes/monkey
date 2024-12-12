@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="BB_10698" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="395" Y="613"/>
+				<Coordinate Order="1" X="411" Y="613"/>
+				<Coordinate Order="2" X="411" Y="629"/>
+				<Coordinate Order="3" X="395" Y="629"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_10699" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="432" Y="490"/>
+				<Coordinate Order="1" X="456" Y="490"/>
+				<Coordinate Order="2" X="456" Y="514"/>
+				<Coordinate Order="3" X="432" Y="514"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_10700" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="605" Y="279"/>
+				<Coordinate Order="1" X="621" Y="279"/>
+				<Coordinate Order="2" X="621" Y="295"/>
+				<Coordinate Order="3" X="605" Y="295"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_10701" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="608" Y="298"/>
+				<Coordinate Order="1" X="624" Y="298"/>
+				<Coordinate Order="2" X="624" Y="314"/>
+				<Coordinate Order="3" X="608" Y="314"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

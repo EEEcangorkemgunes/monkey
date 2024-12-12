@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="BB_19639" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="1004" Y="48"/>
+				<Coordinate Order="1" X="1024" Y="48"/>
+				<Coordinate Order="2" X="1024" Y="72"/>
+				<Coordinate Order="3" X="1004" Y="72"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

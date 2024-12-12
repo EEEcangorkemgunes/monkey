@@ -1,0 +1,2541 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="BB_1812" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="958" Y="10"/>
+				<Coordinate Order="1" X="974" Y="10"/>
+				<Coordinate Order="2" X="974" Y="26"/>
+				<Coordinate Order="3" X="958" Y="26"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1813" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="246" Y="12"/>
+				<Coordinate Order="1" X="262" Y="12"/>
+				<Coordinate Order="2" X="262" Y="28"/>
+				<Coordinate Order="3" X="246" Y="28"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1814" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="556" Y="20"/>
+				<Coordinate Order="1" X="572" Y="20"/>
+				<Coordinate Order="2" X="572" Y="36"/>
+				<Coordinate Order="3" X="556" Y="36"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1815" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="240" Y="64"/>
+				<Coordinate Order="1" X="256" Y="64"/>
+				<Coordinate Order="2" X="256" Y="80"/>
+				<Coordinate Order="3" X="240" Y="80"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1816" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="550" Y="72"/>
+				<Coordinate Order="1" X="566" Y="72"/>
+				<Coordinate Order="2" X="566" Y="88"/>
+				<Coordinate Order="3" X="550" Y="88"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1817" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="852" Y="128"/>
+				<Coordinate Order="1" X="868" Y="128"/>
+				<Coordinate Order="2" X="868" Y="144"/>
+				<Coordinate Order="3" X="852" Y="144"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1818" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="652" Y="137"/>
+				<Coordinate Order="1" X="668" Y="137"/>
+				<Coordinate Order="2" X="668" Y="153"/>
+				<Coordinate Order="3" X="652" Y="153"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1819" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="792" Y="148"/>
+				<Coordinate Order="1" X="808" Y="148"/>
+				<Coordinate Order="2" X="808" Y="164"/>
+				<Coordinate Order="3" X="792" Y="164"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1820" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="730" Y="148"/>
+				<Coordinate Order="1" X="746" Y="148"/>
+				<Coordinate Order="2" X="746" Y="164"/>
+				<Coordinate Order="3" X="730" Y="164"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1821" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="890" Y="226"/>
+				<Coordinate Order="1" X="906" Y="226"/>
+				<Coordinate Order="2" X="906" Y="242"/>
+				<Coordinate Order="3" X="890" Y="242"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1822" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="896" Y="258"/>
+				<Coordinate Order="1" X="912" Y="258"/>
+				<Coordinate Order="2" X="912" Y="274"/>
+				<Coordinate Order="3" X="896" Y="274"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1823" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="764" Y="272"/>
+				<Coordinate Order="1" X="780" Y="272"/>
+				<Coordinate Order="2" X="780" Y="288"/>
+				<Coordinate Order="3" X="764" Y="288"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1824" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="192" Y="290"/>
+				<Coordinate Order="1" X="208" Y="290"/>
+				<Coordinate Order="2" X="208" Y="306"/>
+				<Coordinate Order="3" X="192" Y="306"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1825" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="882" Y="302"/>
+				<Coordinate Order="1" X="898" Y="302"/>
+				<Coordinate Order="2" X="898" Y="318"/>
+				<Coordinate Order="3" X="882" Y="318"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1826" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="322" Y="314"/>
+				<Coordinate Order="1" X="338" Y="314"/>
+				<Coordinate Order="2" X="338" Y="330"/>
+				<Coordinate Order="3" X="322" Y="330"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1827" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="910" Y="320"/>
+				<Coordinate Order="1" X="926" Y="320"/>
+				<Coordinate Order="2" X="926" Y="336"/>
+				<Coordinate Order="3" X="910" Y="336"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1828" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="224" Y="386"/>
+				<Coordinate Order="1" X="240" Y="386"/>
+				<Coordinate Order="2" X="240" Y="402"/>
+				<Coordinate Order="3" X="224" Y="402"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1829" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="928" Y="379"/>
+				<Coordinate Order="1" X="944" Y="379"/>
+				<Coordinate Order="2" X="944" Y="395"/>
+				<Coordinate Order="3" X="928" Y="395"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1830" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="558" Y="420"/>
+				<Coordinate Order="1" X="574" Y="420"/>
+				<Coordinate Order="2" X="574" Y="436"/>
+				<Coordinate Order="3" X="558" Y="436"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1831" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="812" Y="428"/>
+				<Coordinate Order="1" X="828" Y="428"/>
+				<Coordinate Order="2" X="828" Y="444"/>
+				<Coordinate Order="3" X="812" Y="444"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1832" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="726" Y="466"/>
+				<Coordinate Order="1" X="742" Y="466"/>
+				<Coordinate Order="2" X="742" Y="482"/>
+				<Coordinate Order="3" X="726" Y="482"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1833" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="324" Y="476"/>
+				<Coordinate Order="1" X="340" Y="476"/>
+				<Coordinate Order="2" X="340" Y="492"/>
+				<Coordinate Order="3" X="324" Y="492"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1834" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="754" Y="474"/>
+				<Coordinate Order="1" X="770" Y="474"/>
+				<Coordinate Order="2" X="770" Y="490"/>
+				<Coordinate Order="3" X="754" Y="490"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1835" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="486" Y="516"/>
+				<Coordinate Order="1" X="502" Y="516"/>
+				<Coordinate Order="2" X="502" Y="532"/>
+				<Coordinate Order="3" X="486" Y="532"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1836" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="923" Y="515"/>
+				<Coordinate Order="1" X="939" Y="515"/>
+				<Coordinate Order="2" X="939" Y="531"/>
+				<Coordinate Order="3" X="923" Y="531"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1837" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="830" Y="534"/>
+				<Coordinate Order="1" X="846" Y="534"/>
+				<Coordinate Order="2" X="846" Y="550"/>
+				<Coordinate Order="3" X="830" Y="550"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1838" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="890" Y="554"/>
+				<Coordinate Order="1" X="906" Y="554"/>
+				<Coordinate Order="2" X="906" Y="570"/>
+				<Coordinate Order="3" X="890" Y="570"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1839" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="814" Y="556"/>
+				<Coordinate Order="1" X="830" Y="556"/>
+				<Coordinate Order="2" X="830" Y="572"/>
+				<Coordinate Order="3" X="814" Y="572"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1840" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="844" Y="560"/>
+				<Coordinate Order="1" X="860" Y="560"/>
+				<Coordinate Order="2" X="860" Y="576"/>
+				<Coordinate Order="3" X="844" Y="576"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1841" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="443" Y="574"/>
+				<Coordinate Order="1" X="459" Y="574"/>
+				<Coordinate Order="2" X="459" Y="590"/>
+				<Coordinate Order="3" X="443" Y="590"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1842" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="870" Y="574"/>
+				<Coordinate Order="1" X="886" Y="574"/>
+				<Coordinate Order="2" X="886" Y="590"/>
+				<Coordinate Order="3" X="870" Y="590"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1843" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="558" Y="584"/>
+				<Coordinate Order="1" X="574" Y="584"/>
+				<Coordinate Order="2" X="574" Y="600"/>
+				<Coordinate Order="3" X="558" Y="600"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1844" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="196" Y="590"/>
+				<Coordinate Order="1" X="212" Y="590"/>
+				<Coordinate Order="2" X="212" Y="606"/>
+				<Coordinate Order="3" X="196" Y="606"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1845" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="14" Y="594"/>
+				<Coordinate Order="1" X="30" Y="594"/>
+				<Coordinate Order="2" X="30" Y="610"/>
+				<Coordinate Order="3" X="14" Y="610"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1846" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="264" Y="594"/>
+				<Coordinate Order="1" X="280" Y="594"/>
+				<Coordinate Order="2" X="280" Y="610"/>
+				<Coordinate Order="3" X="264" Y="610"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1847" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="818" Y="596"/>
+				<Coordinate Order="1" X="834" Y="596"/>
+				<Coordinate Order="2" X="834" Y="612"/>
+				<Coordinate Order="3" X="818" Y="612"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1848" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="842" Y="602"/>
+				<Coordinate Order="1" X="858" Y="602"/>
+				<Coordinate Order="2" X="858" Y="618"/>
+				<Coordinate Order="3" X="842" Y="618"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1849" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="26" Y="626"/>
+				<Coordinate Order="1" X="42" Y="626"/>
+				<Coordinate Order="2" X="42" Y="642"/>
+				<Coordinate Order="3" X="26" Y="642"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1850" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="760" Y="630"/>
+				<Coordinate Order="1" X="776" Y="630"/>
+				<Coordinate Order="2" X="776" Y="646"/>
+				<Coordinate Order="3" X="760" Y="646"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1851" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="172" Y="640"/>
+				<Coordinate Order="1" X="188" Y="640"/>
+				<Coordinate Order="2" X="188" Y="656"/>
+				<Coordinate Order="3" X="172" Y="656"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1852" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="934" Y="640"/>
+				<Coordinate Order="1" X="950" Y="640"/>
+				<Coordinate Order="2" X="950" Y="656"/>
+				<Coordinate Order="3" X="934" Y="656"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1853" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="864" Y="643"/>
+				<Coordinate Order="1" X="880" Y="643"/>
+				<Coordinate Order="2" X="880" Y="659"/>
+				<Coordinate Order="3" X="864" Y="659"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1854" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="54" Y="666"/>
+				<Coordinate Order="1" X="70" Y="666"/>
+				<Coordinate Order="2" X="70" Y="682"/>
+				<Coordinate Order="3" X="54" Y="682"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1855" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="888" Y="706"/>
+				<Coordinate Order="1" X="904" Y="706"/>
+				<Coordinate Order="2" X="904" Y="722"/>
+				<Coordinate Order="3" X="888" Y="722"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1856" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="414" Y="722"/>
+				<Coordinate Order="1" X="430" Y="722"/>
+				<Coordinate Order="2" X="430" Y="738"/>
+				<Coordinate Order="3" X="414" Y="738"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1857" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="120" Y="746"/>
+				<Coordinate Order="1" X="136" Y="746"/>
+				<Coordinate Order="2" X="136" Y="762"/>
+				<Coordinate Order="3" X="120" Y="762"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1858" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="406" Y="758"/>
+				<Coordinate Order="1" X="422" Y="758"/>
+				<Coordinate Order="2" X="422" Y="774"/>
+				<Coordinate Order="3" X="406" Y="774"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1859" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="240" Y="796"/>
+				<Coordinate Order="1" X="256" Y="796"/>
+				<Coordinate Order="2" X="256" Y="812"/>
+				<Coordinate Order="3" X="240" Y="812"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1860" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="470" Y="792"/>
+				<Coordinate Order="1" X="486" Y="792"/>
+				<Coordinate Order="2" X="486" Y="808"/>
+				<Coordinate Order="3" X="470" Y="808"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1861" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="1002" Y="796"/>
+				<Coordinate Order="1" X="1018" Y="796"/>
+				<Coordinate Order="2" X="1018" Y="812"/>
+				<Coordinate Order="3" X="1002" Y="812"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1862" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="696" Y="818"/>
+				<Coordinate Order="1" X="712" Y="818"/>
+				<Coordinate Order="2" X="712" Y="834"/>
+				<Coordinate Order="3" X="696" Y="834"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1863" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="734" Y="826"/>
+				<Coordinate Order="1" X="750" Y="826"/>
+				<Coordinate Order="2" X="750" Y="842"/>
+				<Coordinate Order="3" X="734" Y="842"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1864" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="818" Y="826"/>
+				<Coordinate Order="1" X="834" Y="826"/>
+				<Coordinate Order="2" X="834" Y="842"/>
+				<Coordinate Order="3" X="818" Y="842"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1865" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="8" Y="836"/>
+				<Coordinate Order="1" X="24" Y="836"/>
+				<Coordinate Order="2" X="24" Y="852"/>
+				<Coordinate Order="3" X="8" Y="852"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1866" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="230" Y="832"/>
+				<Coordinate Order="1" X="246" Y="832"/>
+				<Coordinate Order="2" X="246" Y="848"/>
+				<Coordinate Order="3" X="230" Y="848"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1867" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="322" Y="836"/>
+				<Coordinate Order="1" X="338" Y="836"/>
+				<Coordinate Order="2" X="338" Y="852"/>
+				<Coordinate Order="3" X="322" Y="852"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1868" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="820" Y="850"/>
+				<Coordinate Order="1" X="836" Y="850"/>
+				<Coordinate Order="2" X="836" Y="866"/>
+				<Coordinate Order="3" X="820" Y="866"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1869" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="928" Y="862"/>
+				<Coordinate Order="1" X="944" Y="862"/>
+				<Coordinate Order="2" X="944" Y="878"/>
+				<Coordinate Order="3" X="928" Y="878"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1870" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="762" Y="868"/>
+				<Coordinate Order="1" X="778" Y="868"/>
+				<Coordinate Order="2" X="778" Y="884"/>
+				<Coordinate Order="3" X="762" Y="884"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1871" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="714" Y="872"/>
+				<Coordinate Order="1" X="730" Y="872"/>
+				<Coordinate Order="2" X="730" Y="888"/>
+				<Coordinate Order="3" X="714" Y="888"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1872" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="822" Y="910"/>
+				<Coordinate Order="1" X="838" Y="910"/>
+				<Coordinate Order="2" X="838" Y="926"/>
+				<Coordinate Order="3" X="822" Y="926"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1873" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="556" Y="920"/>
+				<Coordinate Order="1" X="572" Y="920"/>
+				<Coordinate Order="2" X="572" Y="936"/>
+				<Coordinate Order="3" X="556" Y="936"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1874" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="658" Y="926"/>
+				<Coordinate Order="1" X="674" Y="926"/>
+				<Coordinate Order="2" X="674" Y="942"/>
+				<Coordinate Order="3" X="658" Y="942"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1875" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="128" Y="936"/>
+				<Coordinate Order="1" X="144" Y="936"/>
+				<Coordinate Order="2" X="144" Y="952"/>
+				<Coordinate Order="3" X="128" Y="952"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1876" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="874" Y="938"/>
+				<Coordinate Order="1" X="890" Y="938"/>
+				<Coordinate Order="2" X="890" Y="954"/>
+				<Coordinate Order="3" X="874" Y="954"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1877" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="92" Y="946"/>
+				<Coordinate Order="1" X="108" Y="946"/>
+				<Coordinate Order="2" X="108" Y="962"/>
+				<Coordinate Order="3" X="92" Y="962"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1878" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="728" Y="946"/>
+				<Coordinate Order="1" X="744" Y="946"/>
+				<Coordinate Order="2" X="744" Y="962"/>
+				<Coordinate Order="3" X="728" Y="962"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1879" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="738" Y="964"/>
+				<Coordinate Order="1" X="754" Y="964"/>
+				<Coordinate Order="2" X="754" Y="980"/>
+				<Coordinate Order="3" X="738" Y="980"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1880" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="96" Y="966"/>
+				<Coordinate Order="1" X="112" Y="966"/>
+				<Coordinate Order="2" X="112" Y="982"/>
+				<Coordinate Order="3" X="96" Y="982"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1881" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="935" Y="965"/>
+				<Coordinate Order="1" X="951" Y="965"/>
+				<Coordinate Order="2" X="951" Y="981"/>
+				<Coordinate Order="3" X="935" Y="981"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1882" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="536" Y="982"/>
+				<Coordinate Order="1" X="552" Y="982"/>
+				<Coordinate Order="2" X="552" Y="998"/>
+				<Coordinate Order="3" X="536" Y="998"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1883" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="240" Y="986"/>
+				<Coordinate Order="1" X="256" Y="986"/>
+				<Coordinate Order="2" X="256" Y="1002"/>
+				<Coordinate Order="3" X="240" Y="1002"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1884" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="578" Y="1006"/>
+				<Coordinate Order="1" X="594" Y="1006"/>
+				<Coordinate Order="2" X="594" Y="1022"/>
+				<Coordinate Order="3" X="578" Y="1022"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1885" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="19" Y="867"/>
+				<Coordinate Order="1" X="35" Y="867"/>
+				<Coordinate Order="2" X="35" Y="883"/>
+				<Coordinate Order="3" X="19" Y="883"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1886" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="8" Y="259"/>
+				<Coordinate Order="1" X="24" Y="259"/>
+				<Coordinate Order="2" X="24" Y="275"/>
+				<Coordinate Order="3" X="8" Y="275"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1887" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="24" Y="83"/>
+				<Coordinate Order="1" X="40" Y="83"/>
+				<Coordinate Order="2" X="40" Y="99"/>
+				<Coordinate Order="3" X="24" Y="99"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1888" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="172" Y="135"/>
+				<Coordinate Order="1" X="188" Y="135"/>
+				<Coordinate Order="2" X="188" Y="151"/>
+				<Coordinate Order="3" X="172" Y="151"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1889" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="166" Y="280"/>
+				<Coordinate Order="1" X="182" Y="280"/>
+				<Coordinate Order="2" X="182" Y="296"/>
+				<Coordinate Order="3" X="166" Y="296"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1890" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="190" Y="317"/>
+				<Coordinate Order="1" X="206" Y="317"/>
+				<Coordinate Order="2" X="206" Y="333"/>
+				<Coordinate Order="3" X="190" Y="333"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1891" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="146" Y="334"/>
+				<Coordinate Order="1" X="162" Y="334"/>
+				<Coordinate Order="2" X="162" Y="350"/>
+				<Coordinate Order="3" X="146" Y="350"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1892" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="281" Y="222"/>
+				<Coordinate Order="1" X="297" Y="222"/>
+				<Coordinate Order="2" X="297" Y="238"/>
+				<Coordinate Order="3" X="281" Y="238"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1893" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="342" Y="200"/>
+				<Coordinate Order="1" X="358" Y="200"/>
+				<Coordinate Order="2" X="358" Y="216"/>
+				<Coordinate Order="3" X="342" Y="216"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1894" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="303" Y="146"/>
+				<Coordinate Order="1" X="319" Y="146"/>
+				<Coordinate Order="2" X="319" Y="162"/>
+				<Coordinate Order="3" X="303" Y="162"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1895" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="282" Y="91"/>
+				<Coordinate Order="1" X="298" Y="91"/>
+				<Coordinate Order="2" X="298" Y="107"/>
+				<Coordinate Order="3" X="282" Y="107"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1896" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="979" Y="13"/>
+				<Coordinate Order="1" X="995" Y="13"/>
+				<Coordinate Order="2" X="995" Y="29"/>
+				<Coordinate Order="3" X="979" Y="29"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1897" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="781" Y="194"/>
+				<Coordinate Order="1" X="797" Y="194"/>
+				<Coordinate Order="2" X="797" Y="210"/>
+				<Coordinate Order="3" X="781" Y="210"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1898" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="791" Y="164"/>
+				<Coordinate Order="1" X="807" Y="164"/>
+				<Coordinate Order="2" X="807" Y="180"/>
+				<Coordinate Order="3" X="791" Y="180"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1899" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="749" Y="153"/>
+				<Coordinate Order="1" X="765" Y="153"/>
+				<Coordinate Order="2" X="765" Y="169"/>
+				<Coordinate Order="3" X="749" Y="169"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1900" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="711" Y="177"/>
+				<Coordinate Order="1" X="727" Y="177"/>
+				<Coordinate Order="2" X="727" Y="193"/>
+				<Coordinate Order="3" X="711" Y="193"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1901" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="854" Y="431"/>
+				<Coordinate Order="1" X="870" Y="431"/>
+				<Coordinate Order="2" X="870" Y="447"/>
+				<Coordinate Order="3" X="854" Y="447"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1902" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="847" Y="506"/>
+				<Coordinate Order="1" X="863" Y="506"/>
+				<Coordinate Order="2" X="863" Y="522"/>
+				<Coordinate Order="3" X="847" Y="522"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1903" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="849" Y="537"/>
+				<Coordinate Order="1" X="865" Y="537"/>
+				<Coordinate Order="2" X="865" Y="553"/>
+				<Coordinate Order="3" X="849" Y="553"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1904" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="915" Y="715"/>
+				<Coordinate Order="1" X="931" Y="715"/>
+				<Coordinate Order="2" X="931" Y="731"/>
+				<Coordinate Order="3" X="915" Y="731"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1905" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="686" Y="466"/>
+				<Coordinate Order="1" X="702" Y="466"/>
+				<Coordinate Order="2" X="702" Y="482"/>
+				<Coordinate Order="3" X="686" Y="482"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1906" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="330" Y="932"/>
+				<Coordinate Order="1" X="346" Y="932"/>
+				<Coordinate Order="2" X="346" Y="948"/>
+				<Coordinate Order="3" X="330" Y="948"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1907" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="253" Y="778"/>
+				<Coordinate Order="1" X="269" Y="778"/>
+				<Coordinate Order="2" X="269" Y="794"/>
+				<Coordinate Order="3" X="253" Y="794"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1908" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="757" Y="939"/>
+				<Coordinate Order="1" X="773" Y="939"/>
+				<Coordinate Order="2" X="773" Y="955"/>
+				<Coordinate Order="3" X="757" Y="955"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1909" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="955" Y="889"/>
+				<Coordinate Order="1" X="971" Y="889"/>
+				<Coordinate Order="2" X="971" Y="905"/>
+				<Coordinate Order="3" X="955" Y="905"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1910" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="362" Y="777"/>
+				<Coordinate Order="1" X="378" Y="777"/>
+				<Coordinate Order="2" X="378" Y="793"/>
+				<Coordinate Order="3" X="362" Y="793"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1911" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="125" Y="695"/>
+				<Coordinate Order="1" X="141" Y="695"/>
+				<Coordinate Order="2" X="141" Y="711"/>
+				<Coordinate Order="3" X="125" Y="711"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1912" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="236" Y="867"/>
+				<Coordinate Order="1" X="252" Y="867"/>
+				<Coordinate Order="2" X="252" Y="883"/>
+				<Coordinate Order="3" X="236" Y="883"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1913" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="248" Y="935"/>
+				<Coordinate Order="1" X="264" Y="935"/>
+				<Coordinate Order="2" X="264" Y="951"/>
+				<Coordinate Order="3" X="248" Y="951"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1914" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="263" Y="543"/>
+				<Coordinate Order="1" X="279" Y="543"/>
+				<Coordinate Order="2" X="279" Y="559"/>
+				<Coordinate Order="3" X="263" Y="559"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1915" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="228" Y="508"/>
+				<Coordinate Order="1" X="244" Y="508"/>
+				<Coordinate Order="2" X="244" Y="524"/>
+				<Coordinate Order="3" X="228" Y="524"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1916" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="373" Y="459"/>
+				<Coordinate Order="1" X="389" Y="459"/>
+				<Coordinate Order="2" X="389" Y="475"/>
+				<Coordinate Order="3" X="373" Y="475"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1917" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="832" Y="164"/>
+				<Coordinate Order="1" X="848" Y="164"/>
+				<Coordinate Order="2" X="848" Y="180"/>
+				<Coordinate Order="3" X="832" Y="180"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1918" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="990" Y="56"/>
+				<Coordinate Order="1" X="1006" Y="56"/>
+				<Coordinate Order="2" X="1006" Y="72"/>
+				<Coordinate Order="3" X="990" Y="72"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1919" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="990" Y="26"/>
+				<Coordinate Order="1" X="1006" Y="26"/>
+				<Coordinate Order="2" X="1006" Y="42"/>
+				<Coordinate Order="3" X="990" Y="42"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1920" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="939" Y="30"/>
+				<Coordinate Order="1" X="955" Y="30"/>
+				<Coordinate Order="2" X="955" Y="46"/>
+				<Coordinate Order="3" X="939" Y="46"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1921" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="600" Y="56"/>
+				<Coordinate Order="1" X="616" Y="56"/>
+				<Coordinate Order="2" X="616" Y="72"/>
+				<Coordinate Order="3" X="600" Y="72"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1922" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="582" Y="30"/>
+				<Coordinate Order="1" X="598" Y="30"/>
+				<Coordinate Order="2" X="598" Y="46"/>
+				<Coordinate Order="3" X="582" Y="46"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1923" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="884" Y="151"/>
+				<Coordinate Order="1" X="900" Y="151"/>
+				<Coordinate Order="2" X="900" Y="167"/>
+				<Coordinate Order="3" X="884" Y="167"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1924" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="735" Y="223"/>
+				<Coordinate Order="1" X="751" Y="223"/>
+				<Coordinate Order="2" X="751" Y="239"/>
+				<Coordinate Order="3" X="735" Y="239"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1925" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="764" Y="217"/>
+				<Coordinate Order="1" X="780" Y="217"/>
+				<Coordinate Order="2" X="780" Y="233"/>
+				<Coordinate Order="3" X="764" Y="233"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1926" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="793" Y="251"/>
+				<Coordinate Order="1" X="809" Y="251"/>
+				<Coordinate Order="2" X="809" Y="267"/>
+				<Coordinate Order="3" X="793" Y="267"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1927" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="820" Y="239"/>
+				<Coordinate Order="1" X="836" Y="239"/>
+				<Coordinate Order="2" X="836" Y="255"/>
+				<Coordinate Order="3" X="820" Y="255"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1928" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="849" Y="209"/>
+				<Coordinate Order="1" X="865" Y="209"/>
+				<Coordinate Order="2" X="865" Y="225"/>
+				<Coordinate Order="3" X="849" Y="225"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1929" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="827" Y="212"/>
+				<Coordinate Order="1" X="843" Y="212"/>
+				<Coordinate Order="2" X="843" Y="228"/>
+				<Coordinate Order="3" X="827" Y="228"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1930" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="830" Y="125"/>
+				<Coordinate Order="1" X="846" Y="125"/>
+				<Coordinate Order="2" X="846" Y="141"/>
+				<Coordinate Order="3" X="830" Y="141"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1931" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="694" Y="95"/>
+				<Coordinate Order="1" X="710" Y="95"/>
+				<Coordinate Order="2" X="710" Y="111"/>
+				<Coordinate Order="3" X="694" Y="111"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1932" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="119" Y="111"/>
+				<Coordinate Order="1" X="135" Y="111"/>
+				<Coordinate Order="2" X="135" Y="127"/>
+				<Coordinate Order="3" X="119" Y="127"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1933" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="368" Y="552"/>
+				<Coordinate Order="1" X="384" Y="552"/>
+				<Coordinate Order="2" X="384" Y="568"/>
+				<Coordinate Order="3" X="368" Y="568"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1934" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="374" Y="531"/>
+				<Coordinate Order="1" X="390" Y="531"/>
+				<Coordinate Order="2" X="390" Y="547"/>
+				<Coordinate Order="3" X="374" Y="547"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1935" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="599" Y="482"/>
+				<Coordinate Order="1" X="615" Y="482"/>
+				<Coordinate Order="2" X="615" Y="498"/>
+				<Coordinate Order="3" X="599" Y="498"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1936" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="598" Y="456"/>
+				<Coordinate Order="1" X="614" Y="456"/>
+				<Coordinate Order="2" X="614" Y="472"/>
+				<Coordinate Order="3" X="598" Y="472"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1937" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="641" Y="499"/>
+				<Coordinate Order="1" X="657" Y="499"/>
+				<Coordinate Order="2" X="657" Y="515"/>
+				<Coordinate Order="3" X="641" Y="515"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1938" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="709" Y="570"/>
+				<Coordinate Order="1" X="725" Y="570"/>
+				<Coordinate Order="2" X="725" Y="586"/>
+				<Coordinate Order="3" X="709" Y="586"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1939" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="768" Y="580"/>
+				<Coordinate Order="1" X="784" Y="580"/>
+				<Coordinate Order="2" X="784" Y="596"/>
+				<Coordinate Order="3" X="768" Y="596"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1940" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="740" Y="586"/>
+				<Coordinate Order="1" X="764" Y="586"/>
+				<Coordinate Order="2" X="764" Y="610"/>
+				<Coordinate Order="3" X="740" Y="610"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1941" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="788" Y="538"/>
+				<Coordinate Order="1" X="804" Y="538"/>
+				<Coordinate Order="2" X="804" Y="554"/>
+				<Coordinate Order="3" X="788" Y="554"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1942" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="786" Y="611"/>
+				<Coordinate Order="1" X="802" Y="611"/>
+				<Coordinate Order="2" X="802" Y="627"/>
+				<Coordinate Order="3" X="786" Y="627"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1943" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="806" Y="615"/>
+				<Coordinate Order="1" X="822" Y="615"/>
+				<Coordinate Order="2" X="822" Y="631"/>
+				<Coordinate Order="3" X="806" Y="631"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1944" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="819" Y="615"/>
+				<Coordinate Order="1" X="835" Y="615"/>
+				<Coordinate Order="2" X="835" Y="631"/>
+				<Coordinate Order="3" X="819" Y="631"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1945" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="796" Y="648"/>
+				<Coordinate Order="1" X="812" Y="648"/>
+				<Coordinate Order="2" X="812" Y="664"/>
+				<Coordinate Order="3" X="796" Y="664"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1946" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="774" Y="659"/>
+				<Coordinate Order="1" X="790" Y="659"/>
+				<Coordinate Order="2" X="790" Y="675"/>
+				<Coordinate Order="3" X="774" Y="675"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1947" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="809" Y="672"/>
+				<Coordinate Order="1" X="825" Y="672"/>
+				<Coordinate Order="2" X="825" Y="688"/>
+				<Coordinate Order="3" X="809" Y="688"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1948" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="846" Y="624"/>
+				<Coordinate Order="1" X="862" Y="624"/>
+				<Coordinate Order="2" X="862" Y="640"/>
+				<Coordinate Order="3" X="846" Y="640"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1949" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="842" Y="709"/>
+				<Coordinate Order="1" X="858" Y="709"/>
+				<Coordinate Order="2" X="858" Y="725"/>
+				<Coordinate Order="3" X="842" Y="725"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1950" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="782" Y="711"/>
+				<Coordinate Order="1" X="798" Y="711"/>
+				<Coordinate Order="2" X="798" Y="727"/>
+				<Coordinate Order="3" X="782" Y="727"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1951" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="804" Y="720"/>
+				<Coordinate Order="1" X="828" Y="720"/>
+				<Coordinate Order="2" X="828" Y="744"/>
+				<Coordinate Order="3" X="804" Y="744"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1952" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="886" Y="479"/>
+				<Coordinate Order="1" X="902" Y="479"/>
+				<Coordinate Order="2" X="902" Y="495"/>
+				<Coordinate Order="3" X="886" Y="495"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1953" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="839" Y="466"/>
+				<Coordinate Order="1" X="855" Y="466"/>
+				<Coordinate Order="2" X="855" Y="482"/>
+				<Coordinate Order="3" X="839" Y="482"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1954" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="387" Y="770"/>
+				<Coordinate Order="1" X="403" Y="770"/>
+				<Coordinate Order="2" X="403" Y="786"/>
+				<Coordinate Order="3" X="387" Y="786"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1955" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="952" Y="387"/>
+				<Coordinate Order="1" X="968" Y="387"/>
+				<Coordinate Order="2" X="968" Y="403"/>
+				<Coordinate Order="3" X="952" Y="403"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1956" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="915" Y="388"/>
+				<Coordinate Order="1" X="931" Y="388"/>
+				<Coordinate Order="2" X="931" Y="404"/>
+				<Coordinate Order="3" X="915" Y="404"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1957" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="997" Y="314"/>
+				<Coordinate Order="1" X="1013" Y="314"/>
+				<Coordinate Order="2" X="1013" Y="330"/>
+				<Coordinate Order="3" X="997" Y="330"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1958" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="999" Y="295"/>
+				<Coordinate Order="1" X="1015" Y="295"/>
+				<Coordinate Order="2" X="1015" Y="311"/>
+				<Coordinate Order="3" X="999" Y="311"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1959" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="992" Y="329"/>
+				<Coordinate Order="1" X="1008" Y="329"/>
+				<Coordinate Order="2" X="1008" Y="345"/>
+				<Coordinate Order="3" X="992" Y="345"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1960" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="979" Y="286"/>
+				<Coordinate Order="1" X="995" Y="286"/>
+				<Coordinate Order="2" X="995" Y="302"/>
+				<Coordinate Order="3" X="979" Y="302"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1961" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="971" Y="241"/>
+				<Coordinate Order="1" X="987" Y="241"/>
+				<Coordinate Order="2" X="987" Y="257"/>
+				<Coordinate Order="3" X="971" Y="257"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1962" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="457" Y="739"/>
+				<Coordinate Order="1" X="473" Y="739"/>
+				<Coordinate Order="2" X="473" Y="755"/>
+				<Coordinate Order="3" X="457" Y="755"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1963" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="490" Y="718"/>
+				<Coordinate Order="1" X="506" Y="718"/>
+				<Coordinate Order="2" X="506" Y="734"/>
+				<Coordinate Order="3" X="490" Y="734"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1964" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="477" Y="682"/>
+				<Coordinate Order="1" X="493" Y="682"/>
+				<Coordinate Order="2" X="493" Y="698"/>
+				<Coordinate Order="3" X="477" Y="698"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1965" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="283" Y="568"/>
+				<Coordinate Order="1" X="299" Y="568"/>
+				<Coordinate Order="2" X="299" Y="584"/>
+				<Coordinate Order="3" X="283" Y="584"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1966" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="229" Y="547"/>
+				<Coordinate Order="1" X="253" Y="547"/>
+				<Coordinate Order="2" X="253" Y="571"/>
+				<Coordinate Order="3" X="229" Y="571"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1967" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="629" Y="546"/>
+				<Coordinate Order="1" X="645" Y="546"/>
+				<Coordinate Order="2" X="645" Y="562"/>
+				<Coordinate Order="3" X="629" Y="562"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1968" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="298" Y="1008"/>
+				<Coordinate Order="1" X="314" Y="1008"/>
+				<Coordinate Order="2" X="314" Y="1024"/>
+				<Coordinate Order="3" X="298" Y="1024"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1969" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="803" Y="971"/>
+				<Coordinate Order="1" X="819" Y="971"/>
+				<Coordinate Order="2" X="819" Y="987"/>
+				<Coordinate Order="3" X="803" Y="987"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1970" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="61" Y="981"/>
+				<Coordinate Order="1" X="77" Y="981"/>
+				<Coordinate Order="2" X="77" Y="997"/>
+				<Coordinate Order="3" X="61" Y="997"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1971" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="93" Y="884"/>
+				<Coordinate Order="1" X="109" Y="884"/>
+				<Coordinate Order="2" X="109" Y="900"/>
+				<Coordinate Order="3" X="93" Y="900"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1972" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="318" Y="995"/>
+				<Coordinate Order="1" X="334" Y="995"/>
+				<Coordinate Order="2" X="334" Y="1011"/>
+				<Coordinate Order="3" X="318" Y="1011"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1973" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="907" Y="1002"/>
+				<Coordinate Order="1" X="923" Y="1002"/>
+				<Coordinate Order="2" X="923" Y="1018"/>
+				<Coordinate Order="3" X="907" Y="1018"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1974" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="850" Y="906"/>
+				<Coordinate Order="1" X="866" Y="906"/>
+				<Coordinate Order="2" X="866" Y="922"/>
+				<Coordinate Order="3" X="850" Y="922"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1975" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="796" Y="892"/>
+				<Coordinate Order="1" X="812" Y="892"/>
+				<Coordinate Order="2" X="812" Y="908"/>
+				<Coordinate Order="3" X="796" Y="908"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1976" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="844" Y="855"/>
+				<Coordinate Order="1" X="860" Y="855"/>
+				<Coordinate Order="2" X="860" Y="871"/>
+				<Coordinate Order="3" X="844" Y="871"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1977" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="791" Y="850"/>
+				<Coordinate Order="1" X="807" Y="850"/>
+				<Coordinate Order="2" X="807" Y="866"/>
+				<Coordinate Order="3" X="791" Y="866"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1978" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="741" Y="849"/>
+				<Coordinate Order="1" X="757" Y="849"/>
+				<Coordinate Order="2" X="757" Y="865"/>
+				<Coordinate Order="3" X="741" Y="865"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1979" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="876" Y="805"/>
+				<Coordinate Order="1" X="892" Y="805"/>
+				<Coordinate Order="2" X="892" Y="821"/>
+				<Coordinate Order="3" X="876" Y="821"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1980" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="892" Y="833"/>
+				<Coordinate Order="1" X="908" Y="833"/>
+				<Coordinate Order="2" X="908" Y="849"/>
+				<Coordinate Order="3" X="892" Y="849"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1981" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="669" Y="870"/>
+				<Coordinate Order="1" X="685" Y="870"/>
+				<Coordinate Order="2" X="685" Y="886"/>
+				<Coordinate Order="3" X="669" Y="886"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1982" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="702" Y="848"/>
+				<Coordinate Order="1" X="718" Y="848"/>
+				<Coordinate Order="2" X="718" Y="864"/>
+				<Coordinate Order="3" X="702" Y="864"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1983" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="570" Y="979"/>
+				<Coordinate Order="1" X="586" Y="979"/>
+				<Coordinate Order="2" X="586" Y="995"/>
+				<Coordinate Order="3" X="570" Y="995"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1984" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="580" Y="916"/>
+				<Coordinate Order="1" X="596" Y="916"/>
+				<Coordinate Order="2" X="596" Y="932"/>
+				<Coordinate Order="3" X="580" Y="932"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1985" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="561" Y="891"/>
+				<Coordinate Order="1" X="577" Y="891"/>
+				<Coordinate Order="2" X="577" Y="907"/>
+				<Coordinate Order="3" X="561" Y="907"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1986" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="662" Y="953"/>
+				<Coordinate Order="1" X="678" Y="953"/>
+				<Coordinate Order="2" X="678" Y="969"/>
+				<Coordinate Order="3" X="662" Y="969"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1987" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="662" Y="979"/>
+				<Coordinate Order="1" X="678" Y="979"/>
+				<Coordinate Order="2" X="678" Y="995"/>
+				<Coordinate Order="3" X="662" Y="995"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1988" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="846" Y="876"/>
+				<Coordinate Order="1" X="862" Y="876"/>
+				<Coordinate Order="2" X="862" Y="892"/>
+				<Coordinate Order="3" X="846" Y="892"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1989" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="907" Y="122"/>
+				<Coordinate Order="1" X="923" Y="122"/>
+				<Coordinate Order="2" X="923" Y="138"/>
+				<Coordinate Order="3" X="907" Y="138"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1990" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="899" Y="967"/>
+				<Coordinate Order="1" X="915" Y="967"/>
+				<Coordinate Order="2" X="915" Y="983"/>
+				<Coordinate Order="3" X="899" Y="983"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1991" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="936" Y="909"/>
+				<Coordinate Order="1" X="952" Y="909"/>
+				<Coordinate Order="2" X="952" Y="925"/>
+				<Coordinate Order="3" X="936" Y="925"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1992" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="604" Y="973"/>
+				<Coordinate Order="1" X="620" Y="973"/>
+				<Coordinate Order="2" X="620" Y="989"/>
+				<Coordinate Order="3" X="604" Y="989"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1993" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="676" Y="856"/>
+				<Coordinate Order="1" X="692" Y="856"/>
+				<Coordinate Order="2" X="692" Y="872"/>
+				<Coordinate Order="3" X="676" Y="872"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1994" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="338" Y="1005"/>
+				<Coordinate Order="1" X="354" Y="1005"/>
+				<Coordinate Order="2" X="354" Y="1021"/>
+				<Coordinate Order="3" X="338" Y="1021"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1995" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="412" Y="905"/>
+				<Coordinate Order="1" X="428" Y="905"/>
+				<Coordinate Order="2" X="428" Y="921"/>
+				<Coordinate Order="3" X="412" Y="921"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1996" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="205" Y="703"/>
+				<Coordinate Order="1" X="221" Y="703"/>
+				<Coordinate Order="2" X="221" Y="719"/>
+				<Coordinate Order="3" X="205" Y="719"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1997" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="213" Y="662"/>
+				<Coordinate Order="1" X="229" Y="662"/>
+				<Coordinate Order="2" X="229" Y="678"/>
+				<Coordinate Order="3" X="213" Y="678"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1998" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="156" Y="692"/>
+				<Coordinate Order="1" X="172" Y="692"/>
+				<Coordinate Order="2" X="172" Y="708"/>
+				<Coordinate Order="3" X="156" Y="708"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_1999" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="449" Y="397"/>
+				<Coordinate Order="1" X="465" Y="397"/>
+				<Coordinate Order="2" X="465" Y="413"/>
+				<Coordinate Order="3" X="449" Y="413"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2000" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="386" Y="373"/>
+				<Coordinate Order="1" X="402" Y="373"/>
+				<Coordinate Order="2" X="402" Y="389"/>
+				<Coordinate Order="3" X="386" Y="389"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2001" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="389" Y="416"/>
+				<Coordinate Order="1" X="405" Y="416"/>
+				<Coordinate Order="2" X="405" Y="432"/>
+				<Coordinate Order="3" X="389" Y="432"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2002" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="498" Y="497"/>
+				<Coordinate Order="1" X="514" Y="497"/>
+				<Coordinate Order="2" X="514" Y="513"/>
+				<Coordinate Order="3" X="498" Y="513"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2003" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="264" Y="461"/>
+				<Coordinate Order="1" X="280" Y="461"/>
+				<Coordinate Order="2" X="280" Y="477"/>
+				<Coordinate Order="3" X="264" Y="477"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2004" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="283" Y="778"/>
+				<Coordinate Order="1" X="299" Y="778"/>
+				<Coordinate Order="2" X="299" Y="794"/>
+				<Coordinate Order="3" X="283" Y="794"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2005" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="86" Y="124"/>
+				<Coordinate Order="1" X="102" Y="124"/>
+				<Coordinate Order="2" X="102" Y="140"/>
+				<Coordinate Order="3" X="86" Y="140"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2006" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="59" Y="72"/>
+				<Coordinate Order="1" X="75" Y="72"/>
+				<Coordinate Order="2" X="75" Y="88"/>
+				<Coordinate Order="3" X="59" Y="88"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2007" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="864" Y="1013"/>
+				<Coordinate Order="1" X="880" Y="1013"/>
+				<Coordinate Order="2" X="880" Y="1024"/>
+				<Coordinate Order="3" X="864" Y="1024"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2008" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="812" Y="1001"/>
+				<Coordinate Order="1" X="828" Y="1001"/>
+				<Coordinate Order="2" X="828" Y="1017"/>
+				<Coordinate Order="3" X="812" Y="1017"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2009" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="832" Y="1000"/>
+				<Coordinate Order="1" X="848" Y="1000"/>
+				<Coordinate Order="2" X="848" Y="1016"/>
+				<Coordinate Order="3" X="832" Y="1016"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2010" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="904" Y="859"/>
+				<Coordinate Order="1" X="920" Y="859"/>
+				<Coordinate Order="2" X="920" Y="875"/>
+				<Coordinate Order="3" X="904" Y="875"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2011" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="868" Y="890"/>
+				<Coordinate Order="1" X="884" Y="890"/>
+				<Coordinate Order="2" X="884" Y="906"/>
+				<Coordinate Order="3" X="868" Y="906"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2012" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="875" Y="858"/>
+				<Coordinate Order="1" X="891" Y="858"/>
+				<Coordinate Order="2" X="891" Y="874"/>
+				<Coordinate Order="3" X="875" Y="874"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2013" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="855" Y="833"/>
+				<Coordinate Order="1" X="871" Y="833"/>
+				<Coordinate Order="2" X="871" Y="849"/>
+				<Coordinate Order="3" X="855" Y="849"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2014" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="1000" Y="825"/>
+				<Coordinate Order="1" X="1016" Y="825"/>
+				<Coordinate Order="2" X="1016" Y="841"/>
+				<Coordinate Order="3" X="1000" Y="841"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2015" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="877" Y="750"/>
+				<Coordinate Order="1" X="893" Y="750"/>
+				<Coordinate Order="2" X="893" Y="766"/>
+				<Coordinate Order="3" X="877" Y="766"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2016" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="568" Y="797"/>
+				<Coordinate Order="1" X="584" Y="797"/>
+				<Coordinate Order="2" X="584" Y="813"/>
+				<Coordinate Order="3" X="568" Y="813"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2017" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="544" Y="769"/>
+				<Coordinate Order="1" X="560" Y="769"/>
+				<Coordinate Order="2" X="560" Y="785"/>
+				<Coordinate Order="3" X="544" Y="785"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2018" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="824" Y="646"/>
+				<Coordinate Order="1" X="840" Y="646"/>
+				<Coordinate Order="2" X="840" Y="662"/>
+				<Coordinate Order="3" X="824" Y="662"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2019" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="974" Y="632"/>
+				<Coordinate Order="1" X="990" Y="632"/>
+				<Coordinate Order="2" X="990" Y="648"/>
+				<Coordinate Order="3" X="974" Y="648"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2020" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="966" Y="611"/>
+				<Coordinate Order="1" X="982" Y="611"/>
+				<Coordinate Order="2" X="982" Y="627"/>
+				<Coordinate Order="3" X="966" Y="627"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2021" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="974" Y="578"/>
+				<Coordinate Order="1" X="990" Y="578"/>
+				<Coordinate Order="2" X="990" Y="594"/>
+				<Coordinate Order="3" X="974" Y="594"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2022" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="1009" Y="632"/>
+				<Coordinate Order="1" X="1024" Y="632"/>
+				<Coordinate Order="2" X="1024" Y="648"/>
+				<Coordinate Order="3" X="1009" Y="648"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2023" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="881" Y="324"/>
+				<Coordinate Order="1" X="897" Y="324"/>
+				<Coordinate Order="2" X="897" Y="340"/>
+				<Coordinate Order="3" X="881" Y="340"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2024" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="875" Y="273"/>
+				<Coordinate Order="1" X="891" Y="273"/>
+				<Coordinate Order="2" X="891" Y="289"/>
+				<Coordinate Order="3" X="875" Y="289"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2025" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="916" Y="202"/>
+				<Coordinate Order="1" X="932" Y="202"/>
+				<Coordinate Order="2" X="932" Y="218"/>
+				<Coordinate Order="3" X="916" Y="218"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2026" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="753" Y="331"/>
+				<Coordinate Order="1" X="769" Y="331"/>
+				<Coordinate Order="2" X="769" Y="347"/>
+				<Coordinate Order="3" X="753" Y="347"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2027" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="662" Y="381"/>
+				<Coordinate Order="1" X="678" Y="381"/>
+				<Coordinate Order="2" X="678" Y="397"/>
+				<Coordinate Order="3" X="662" Y="397"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2028" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="889" Y="682"/>
+				<Coordinate Order="1" X="905" Y="682"/>
+				<Coordinate Order="2" X="905" Y="698"/>
+				<Coordinate Order="3" X="889" Y="698"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2029" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="104" Y="8"/>
+				<Coordinate Order="1" X="128" Y="8"/>
+				<Coordinate Order="2" X="128" Y="32"/>
+				<Coordinate Order="3" X="104" Y="32"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2030" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="266" Y="10"/>
+				<Coordinate Order="1" X="290" Y="10"/>
+				<Coordinate Order="2" X="290" Y="34"/>
+				<Coordinate Order="3" X="266" Y="34"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2031" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="296" Y="14"/>
+				<Coordinate Order="1" X="320" Y="14"/>
+				<Coordinate Order="2" X="320" Y="38"/>
+				<Coordinate Order="3" X="296" Y="38"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2032" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="46" Y="24"/>
+				<Coordinate Order="1" X="70" Y="24"/>
+				<Coordinate Order="2" X="70" Y="48"/>
+				<Coordinate Order="3" X="46" Y="48"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2033" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="270" Y="46"/>
+				<Coordinate Order="1" X="294" Y="46"/>
+				<Coordinate Order="2" X="294" Y="70"/>
+				<Coordinate Order="3" X="270" Y="70"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2034" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="586" Y="70"/>
+				<Coordinate Order="1" X="610" Y="70"/>
+				<Coordinate Order="2" X="610" Y="94"/>
+				<Coordinate Order="3" X="586" Y="94"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2035" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="222" Y="84"/>
+				<Coordinate Order="1" X="246" Y="84"/>
+				<Coordinate Order="2" X="246" Y="108"/>
+				<Coordinate Order="3" X="222" Y="108"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2036" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="238" Y="132"/>
+				<Coordinate Order="1" X="262" Y="132"/>
+				<Coordinate Order="2" X="262" Y="156"/>
+				<Coordinate Order="3" X="238" Y="156"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2037" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="4" Y="168"/>
+				<Coordinate Order="1" X="28" Y="168"/>
+				<Coordinate Order="2" X="28" Y="192"/>
+				<Coordinate Order="3" X="4" Y="192"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2038" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="130" Y="170"/>
+				<Coordinate Order="1" X="154" Y="170"/>
+				<Coordinate Order="2" X="154" Y="194"/>
+				<Coordinate Order="3" X="130" Y="194"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2039" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="104" Y="186"/>
+				<Coordinate Order="1" X="128" Y="186"/>
+				<Coordinate Order="2" X="128" Y="210"/>
+				<Coordinate Order="3" X="104" Y="210"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2040" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="820" Y="188"/>
+				<Coordinate Order="1" X="844" Y="188"/>
+				<Coordinate Order="2" X="844" Y="212"/>
+				<Coordinate Order="3" X="820" Y="212"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2041" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="946" Y="202"/>
+				<Coordinate Order="1" X="970" Y="202"/>
+				<Coordinate Order="2" X="970" Y="226"/>
+				<Coordinate Order="3" X="946" Y="226"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2042" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="248" Y="216"/>
+				<Coordinate Order="1" X="272" Y="216"/>
+				<Coordinate Order="2" X="272" Y="240"/>
+				<Coordinate Order="3" X="248" Y="240"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2043" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="130" Y="234"/>
+				<Coordinate Order="1" X="154" Y="234"/>
+				<Coordinate Order="2" X="154" Y="258"/>
+				<Coordinate Order="3" X="130" Y="258"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2044" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="128" Y="292"/>
+				<Coordinate Order="1" X="152" Y="292"/>
+				<Coordinate Order="2" X="152" Y="316"/>
+				<Coordinate Order="3" X="128" Y="316"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2045" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="994" Y="348"/>
+				<Coordinate Order="1" X="1018" Y="348"/>
+				<Coordinate Order="2" X="1018" Y="372"/>
+				<Coordinate Order="3" X="994" Y="372"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2046" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="74" Y="360"/>
+				<Coordinate Order="1" X="98" Y="360"/>
+				<Coordinate Order="2" X="98" Y="384"/>
+				<Coordinate Order="3" X="74" Y="384"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2047" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="876" Y="373"/>
+				<Coordinate Order="1" X="900" Y="373"/>
+				<Coordinate Order="2" X="900" Y="397"/>
+				<Coordinate Order="3" X="876" Y="397"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2048" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="106" Y="370"/>
+				<Coordinate Order="1" X="130" Y="370"/>
+				<Coordinate Order="2" X="130" Y="394"/>
+				<Coordinate Order="3" X="106" Y="394"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2049" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="282" Y="372"/>
+				<Coordinate Order="1" X="306" Y="372"/>
+				<Coordinate Order="2" X="306" Y="396"/>
+				<Coordinate Order="3" X="282" Y="396"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2050" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="178" Y="380"/>
+				<Coordinate Order="1" X="202" Y="380"/>
+				<Coordinate Order="2" X="202" Y="404"/>
+				<Coordinate Order="3" X="178" Y="404"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2051" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="300" Y="388"/>
+				<Coordinate Order="1" X="324" Y="388"/>
+				<Coordinate Order="2" X="324" Y="412"/>
+				<Coordinate Order="3" X="300" Y="412"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2052" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="968" Y="386"/>
+				<Coordinate Order="1" X="992" Y="386"/>
+				<Coordinate Order="2" X="992" Y="410"/>
+				<Coordinate Order="3" X="968" Y="410"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2053" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="826" Y="398"/>
+				<Coordinate Order="1" X="850" Y="398"/>
+				<Coordinate Order="2" X="850" Y="422"/>
+				<Coordinate Order="3" X="826" Y="422"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2054" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="770" Y="400"/>
+				<Coordinate Order="1" X="794" Y="400"/>
+				<Coordinate Order="2" X="794" Y="424"/>
+				<Coordinate Order="3" X="770" Y="424"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2055" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="626" Y="406"/>
+				<Coordinate Order="1" X="650" Y="406"/>
+				<Coordinate Order="2" X="650" Y="430"/>
+				<Coordinate Order="3" X="626" Y="430"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2056" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="510" Y="414"/>
+				<Coordinate Order="1" X="534" Y="414"/>
+				<Coordinate Order="2" X="534" Y="438"/>
+				<Coordinate Order="3" X="510" Y="438"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2057" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="922" Y="414"/>
+				<Coordinate Order="1" X="946" Y="414"/>
+				<Coordinate Order="2" X="946" Y="438"/>
+				<Coordinate Order="3" X="922" Y="438"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2058" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="410" Y="440"/>
+				<Coordinate Order="1" X="434" Y="440"/>
+				<Coordinate Order="2" X="434" Y="464"/>
+				<Coordinate Order="3" X="410" Y="464"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2059" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="754" Y="496"/>
+				<Coordinate Order="1" X="778" Y="496"/>
+				<Coordinate Order="2" X="778" Y="520"/>
+				<Coordinate Order="3" X="754" Y="520"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2060" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="518" Y="506"/>
+				<Coordinate Order="1" X="542" Y="506"/>
+				<Coordinate Order="2" X="542" Y="530"/>
+				<Coordinate Order="3" X="518" Y="530"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2061" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="592" Y="592"/>
+				<Coordinate Order="1" X="616" Y="592"/>
+				<Coordinate Order="2" X="616" Y="616"/>
+				<Coordinate Order="3" X="592" Y="616"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2062" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="450" Y="628"/>
+				<Coordinate Order="1" X="474" Y="628"/>
+				<Coordinate Order="2" X="474" Y="652"/>
+				<Coordinate Order="3" X="450" Y="652"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2063" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="634" Y="634"/>
+				<Coordinate Order="1" X="658" Y="634"/>
+				<Coordinate Order="2" X="658" Y="658"/>
+				<Coordinate Order="3" X="634" Y="658"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2064" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="38" Y="636"/>
+				<Coordinate Order="1" X="62" Y="636"/>
+				<Coordinate Order="2" X="62" Y="660"/>
+				<Coordinate Order="3" X="38" Y="660"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2065" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="540" Y="662"/>
+				<Coordinate Order="1" X="564" Y="662"/>
+				<Coordinate Order="2" X="564" Y="686"/>
+				<Coordinate Order="3" X="540" Y="686"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2066" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="700" Y="724"/>
+				<Coordinate Order="1" X="724" Y="724"/>
+				<Coordinate Order="2" X="724" Y="748"/>
+				<Coordinate Order="3" X="700" Y="748"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2067" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="486" Y="742"/>
+				<Coordinate Order="1" X="510" Y="742"/>
+				<Coordinate Order="2" X="510" Y="766"/>
+				<Coordinate Order="3" X="486" Y="766"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2068" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="150" Y="756"/>
+				<Coordinate Order="1" X="174" Y="756"/>
+				<Coordinate Order="2" X="174" Y="780"/>
+				<Coordinate Order="3" X="150" Y="780"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2069" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="114" Y="802"/>
+				<Coordinate Order="1" X="138" Y="802"/>
+				<Coordinate Order="2" X="138" Y="826"/>
+				<Coordinate Order="3" X="114" Y="826"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2070" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="376" Y="816"/>
+				<Coordinate Order="1" X="400" Y="816"/>
+				<Coordinate Order="2" X="400" Y="840"/>
+				<Coordinate Order="3" X="376" Y="840"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2071" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="194" Y="830"/>
+				<Coordinate Order="1" X="218" Y="830"/>
+				<Coordinate Order="2" X="218" Y="854"/>
+				<Coordinate Order="3" X="194" Y="854"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2072" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="164" Y="856"/>
+				<Coordinate Order="1" X="188" Y="856"/>
+				<Coordinate Order="2" X="188" Y="880"/>
+				<Coordinate Order="3" X="164" Y="880"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2073" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="112" Y="873"/>
+				<Coordinate Order="1" X="136" Y="873"/>
+				<Coordinate Order="2" X="136" Y="897"/>
+				<Coordinate Order="3" X="112" Y="897"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2074" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="692" Y="918"/>
+				<Coordinate Order="1" X="716" Y="918"/>
+				<Coordinate Order="2" X="716" Y="942"/>
+				<Coordinate Order="3" X="692" Y="942"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2075" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="52" Y="946"/>
+				<Coordinate Order="1" X="76" Y="946"/>
+				<Coordinate Order="2" X="76" Y="970"/>
+				<Coordinate Order="3" X="52" Y="970"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2076" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="0" Y="956"/>
+				<Coordinate Order="1" X="24" Y="956"/>
+				<Coordinate Order="2" X="24" Y="980"/>
+				<Coordinate Order="3" X="0" Y="980"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2077" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="764" Y="1010"/>
+				<Coordinate Order="1" X="788" Y="1010"/>
+				<Coordinate Order="2" X="788" Y="1024"/>
+				<Coordinate Order="3" X="764" Y="1024"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2078" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="307" Y="161"/>
+				<Coordinate Order="1" X="331" Y="161"/>
+				<Coordinate Order="2" X="331" Y="185"/>
+				<Coordinate Order="3" X="307" Y="185"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2079" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="675" Y="277"/>
+				<Coordinate Order="1" X="699" Y="277"/>
+				<Coordinate Order="2" X="699" Y="301"/>
+				<Coordinate Order="3" X="675" Y="301"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2080" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="424" Y="369"/>
+				<Coordinate Order="1" X="448" Y="369"/>
+				<Coordinate Order="2" X="448" Y="393"/>
+				<Coordinate Order="3" X="424" Y="393"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2081" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="466" Y="416"/>
+				<Coordinate Order="1" X="490" Y="416"/>
+				<Coordinate Order="2" X="490" Y="440"/>
+				<Coordinate Order="3" X="466" Y="440"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2082" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="837" Y="371"/>
+				<Coordinate Order="1" X="861" Y="371"/>
+				<Coordinate Order="2" X="861" Y="395"/>
+				<Coordinate Order="3" X="837" Y="395"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2083" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="637" Y="315"/>
+				<Coordinate Order="1" X="661" Y="315"/>
+				<Coordinate Order="2" X="661" Y="339"/>
+				<Coordinate Order="3" X="637" Y="339"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2084" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="700" Y="227"/>
+				<Coordinate Order="1" X="724" Y="227"/>
+				<Coordinate Order="2" X="724" Y="251"/>
+				<Coordinate Order="3" X="700" Y="251"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2085" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="932" Y="81"/>
+				<Coordinate Order="1" X="956" Y="81"/>
+				<Coordinate Order="2" X="956" Y="105"/>
+				<Coordinate Order="3" X="932" Y="105"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2086" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="968" Y="89"/>
+				<Coordinate Order="1" X="992" Y="89"/>
+				<Coordinate Order="2" X="992" Y="113"/>
+				<Coordinate Order="3" X="968" Y="113"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2087" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="993" Y="113"/>
+				<Coordinate Order="1" X="1017" Y="113"/>
+				<Coordinate Order="2" X="1017" Y="137"/>
+				<Coordinate Order="3" X="993" Y="137"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2088" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="919" Y="0"/>
+				<Coordinate Order="1" X="943" Y="0"/>
+				<Coordinate Order="2" X="943" Y="24"/>
+				<Coordinate Order="3" X="919" Y="24"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2089" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="793" Y="932"/>
+				<Coordinate Order="1" X="817" Y="932"/>
+				<Coordinate Order="2" X="817" Y="956"/>
+				<Coordinate Order="3" X="793" Y="956"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2090" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="825" Y="935"/>
+				<Coordinate Order="1" X="849" Y="935"/>
+				<Coordinate Order="2" X="849" Y="959"/>
+				<Coordinate Order="3" X="825" Y="959"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2091" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="937" Y="47"/>
+				<Coordinate Order="1" X="961" Y="47"/>
+				<Coordinate Order="2" X="961" Y="71"/>
+				<Coordinate Order="3" X="937" Y="71"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2092" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="722" Y="993"/>
+				<Coordinate Order="1" X="746" Y="993"/>
+				<Coordinate Order="2" X="746" Y="1017"/>
+				<Coordinate Order="3" X="722" Y="1017"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2093" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="690" Y="878"/>
+				<Coordinate Order="1" X="714" Y="878"/>
+				<Coordinate Order="2" X="714" Y="902"/>
+				<Coordinate Order="3" X="690" Y="902"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2094" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="659" Y="782"/>
+				<Coordinate Order="1" X="683" Y="782"/>
+				<Coordinate Order="2" X="683" Y="806"/>
+				<Coordinate Order="3" X="659" Y="806"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2095" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="596" Y="952"/>
+				<Coordinate Order="1" X="620" Y="952"/>
+				<Coordinate Order="2" X="620" Y="976"/>
+				<Coordinate Order="3" X="596" Y="976"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2096" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="883" Y="652"/>
+				<Coordinate Order="1" X="907" Y="652"/>
+				<Coordinate Order="2" X="907" Y="676"/>
+				<Coordinate Order="3" X="883" Y="676"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2097" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="846" Y="665"/>
+				<Coordinate Order="1" X="870" Y="665"/>
+				<Coordinate Order="2" X="870" Y="689"/>
+				<Coordinate Order="3" X="846" Y="689"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2098" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="685" Y="529"/>
+				<Coordinate Order="1" X="709" Y="529"/>
+				<Coordinate Order="2" X="709" Y="553"/>
+				<Coordinate Order="3" X="685" Y="553"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2099" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="565" Y="503"/>
+				<Coordinate Order="1" X="589" Y="503"/>
+				<Coordinate Order="2" X="589" Y="527"/>
+				<Coordinate Order="3" X="565" Y="527"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2100" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="319" Y="533"/>
+				<Coordinate Order="1" X="343" Y="533"/>
+				<Coordinate Order="2" X="343" Y="557"/>
+				<Coordinate Order="3" X="319" Y="557"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2101" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="278" Y="520"/>
+				<Coordinate Order="1" X="302" Y="520"/>
+				<Coordinate Order="2" X="302" Y="544"/>
+				<Coordinate Order="3" X="278" Y="544"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2102" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="451" Y="478"/>
+				<Coordinate Order="1" X="475" Y="478"/>
+				<Coordinate Order="2" X="475" Y="502"/>
+				<Coordinate Order="3" X="451" Y="502"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2103" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="467" Y="449"/>
+				<Coordinate Order="1" X="491" Y="449"/>
+				<Coordinate Order="2" X="491" Y="473"/>
+				<Coordinate Order="3" X="467" Y="473"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2104" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="482" Y="647"/>
+				<Coordinate Order="1" X="506" Y="647"/>
+				<Coordinate Order="2" X="506" Y="671"/>
+				<Coordinate Order="3" X="482" Y="671"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2105" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="254" Y="717"/>
+				<Coordinate Order="1" X="278" Y="717"/>
+				<Coordinate Order="2" X="278" Y="741"/>
+				<Coordinate Order="3" X="254" Y="741"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2106" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="326" Y="705"/>
+				<Coordinate Order="1" X="350" Y="705"/>
+				<Coordinate Order="2" X="350" Y="729"/>
+				<Coordinate Order="3" X="326" Y="729"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2107" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="355" Y="740"/>
+				<Coordinate Order="1" X="379" Y="740"/>
+				<Coordinate Order="2" X="379" Y="764"/>
+				<Coordinate Order="3" X="355" Y="764"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2108" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="301" Y="880"/>
+				<Coordinate Order="1" X="325" Y="880"/>
+				<Coordinate Order="2" X="325" Y="904"/>
+				<Coordinate Order="3" X="301" Y="904"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2109" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="67" Y="218"/>
+				<Coordinate Order="1" X="91" Y="218"/>
+				<Coordinate Order="2" X="91" Y="242"/>
+				<Coordinate Order="3" X="67" Y="242"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2110" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="684" Y="427"/>
+				<Coordinate Order="1" X="708" Y="427"/>
+				<Coordinate Order="2" X="708" Y="451"/>
+				<Coordinate Order="3" X="684" Y="451"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2111" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="696" Y="421"/>
+				<Coordinate Order="1" X="720" Y="421"/>
+				<Coordinate Order="2" X="720" Y="445"/>
+				<Coordinate Order="3" X="696" Y="445"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2112" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="853" Y="958"/>
+				<Coordinate Order="1" X="877" Y="958"/>
+				<Coordinate Order="2" X="877" Y="982"/>
+				<Coordinate Order="3" X="853" Y="982"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2113" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="372" Y="1004"/>
+				<Coordinate Order="1" X="396" Y="1004"/>
+				<Coordinate Order="2" X="396" Y="1024"/>
+				<Coordinate Order="3" X="372" Y="1024"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2114" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="558" Y="748"/>
+				<Coordinate Order="1" X="582" Y="748"/>
+				<Coordinate Order="2" X="582" Y="772"/>
+				<Coordinate Order="3" X="558" Y="772"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2115" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="618" Y="575"/>
+				<Coordinate Order="1" X="642" Y="575"/>
+				<Coordinate Order="2" X="642" Y="599"/>
+				<Coordinate Order="3" X="618" Y="599"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2116" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="54" Y="290"/>
+				<Coordinate Order="1" X="78" Y="290"/>
+				<Coordinate Order="2" X="78" Y="314"/>
+				<Coordinate Order="3" X="54" Y="314"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2117" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="44" Y="294"/>
+				<Coordinate Order="1" X="68" Y="294"/>
+				<Coordinate Order="2" X="68" Y="318"/>
+				<Coordinate Order="3" X="44" Y="318"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2118" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="125" Y="409"/>
+				<Coordinate Order="1" X="149" Y="409"/>
+				<Coordinate Order="2" X="149" Y="433"/>
+				<Coordinate Order="3" X="125" Y="433"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2119" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="178" Y="434"/>
+				<Coordinate Order="1" X="202" Y="434"/>
+				<Coordinate Order="2" X="202" Y="458"/>
+				<Coordinate Order="3" X="178" Y="458"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2120" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="102" Y="940"/>
+				<Coordinate Order="1" X="118" Y="940"/>
+				<Coordinate Order="2" X="118" Y="956"/>
+				<Coordinate Order="3" X="102" Y="956"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2121" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="931" Y="920"/>
+				<Coordinate Order="1" X="947" Y="920"/>
+				<Coordinate Order="2" X="947" Y="936"/>
+				<Coordinate Order="3" X="931" Y="936"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2122" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="145" Y="810"/>
+				<Coordinate Order="1" X="161" Y="810"/>
+				<Coordinate Order="2" X="161" Y="826"/>
+				<Coordinate Order="3" X="145" Y="826"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2123" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="397" Y="437"/>
+				<Coordinate Order="1" X="413" Y="437"/>
+				<Coordinate Order="2" X="413" Y="453"/>
+				<Coordinate Order="3" X="397" Y="453"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2124" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="249" Y="429"/>
+				<Coordinate Order="1" X="265" Y="429"/>
+				<Coordinate Order="2" X="265" Y="445"/>
+				<Coordinate Order="3" X="249" Y="445"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2125" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="241" Y="511"/>
+				<Coordinate Order="1" X="257" Y="511"/>
+				<Coordinate Order="2" X="257" Y="527"/>
+				<Coordinate Order="3" X="241" Y="527"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2126" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="0" Y="584"/>
+				<Coordinate Order="1" X="24" Y="584"/>
+				<Coordinate Order="2" X="24" Y="608"/>
+				<Coordinate Order="3" X="0" Y="608"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2127" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="726" Y="96"/>
+				<Coordinate Order="1" X="750" Y="96"/>
+				<Coordinate Order="2" X="750" Y="120"/>
+				<Coordinate Order="3" X="726" Y="120"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_2128" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="132" Y="98"/>
+				<Coordinate Order="1" X="148" Y="98"/>
+				<Coordinate Order="2" X="148" Y="114"/>
+				<Coordinate Order="3" X="132" Y="114"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

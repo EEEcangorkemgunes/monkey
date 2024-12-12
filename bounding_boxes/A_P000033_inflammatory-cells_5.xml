@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="BB_19977" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="0" Y="201"/>
+				<Coordinate Order="1" X="24" Y="201"/>
+				<Coordinate Order="2" X="24" Y="225"/>
+				<Coordinate Order="3" X="0" Y="225"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19978" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="903" Y="823"/>
+				<Coordinate Order="1" X="927" Y="823"/>
+				<Coordinate Order="2" X="927" Y="847"/>
+				<Coordinate Order="3" X="903" Y="847"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19979" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="331" Y="907"/>
+				<Coordinate Order="1" X="355" Y="907"/>
+				<Coordinate Order="2" X="355" Y="931"/>
+				<Coordinate Order="3" X="331" Y="931"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19980" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="903" Y="991"/>
+				<Coordinate Order="1" X="927" Y="991"/>
+				<Coordinate Order="2" X="927" Y="1015"/>
+				<Coordinate Order="3" X="903" Y="1015"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19981" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="281" Y="497"/>
+				<Coordinate Order="1" X="305" Y="497"/>
+				<Coordinate Order="2" X="305" Y="521"/>
+				<Coordinate Order="3" X="281" Y="521"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19982" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="409" Y="270"/>
+				<Coordinate Order="1" X="433" Y="270"/>
+				<Coordinate Order="2" X="433" Y="294"/>
+				<Coordinate Order="3" X="409" Y="294"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="BB_19983" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="941" Y="587"/>
+				<Coordinate Order="1" X="965" Y="587"/>
+				<Coordinate Order="2" X="965" Y="611"/>
+				<Coordinate Order="3" X="941" Y="611"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="25870" Y="10860"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="25358" Y="10348"/>
+				<Coordinate Order="1" X="26382" Y="10348"/>
+				<Coordinate Order="2" X="26382" Y="11372"/>
+				<Coordinate Order="3" X="25358" Y="11372"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_1" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="26894" Y="10860"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_1" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="26382" Y="10348"/>
+				<Coordinate Order="1" X="27406" Y="10348"/>
+				<Coordinate Order="2" X="27406" Y="11372"/>
+				<Coordinate Order="3" X="26382" Y="11372"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_2" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="25870" Y="11884"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_2" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="25358" Y="11372"/>
+				<Coordinate Order="1" X="26382" Y="11372"/>
+				<Coordinate Order="2" X="26382" Y="12396"/>
+				<Coordinate Order="3" X="25358" Y="12396"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_3" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="26894" Y="11884"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_3" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="26382" Y="11372"/>
+				<Coordinate Order="1" X="27406" Y="11372"/>
+				<Coordinate Order="2" X="27406" Y="12396"/>
+				<Coordinate Order="3" X="26382" Y="12396"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="ROI_421" Type="Polygon" PartOfGroup="None" Color="#73d216">
+			<Coordinates>
+				<Coordinate Order="0" X="27152.1484" Y="10078.4727"/>
+				<Coordinate Order="1" X="26915.3887" Y="9855.16504"/>
+				<Coordinate Order="2" X="25650.8711" Y="9836.33105"/>
+				<Coordinate Order="3" X="25252.6816" Y="10137.6631"/>
+				<Coordinate Order="4" X="25239.2305" Y="10624.6367"/>
+				<Coordinate Order="5" X="25040.1367" Y="10896.374"/>
+				<Coordinate Order="6" X="24846.4219" Y="11165.4199"/>
+				<Coordinate Order="7" X="24954.041" Y="11482.8945"/>
+				<Coordinate Order="8" X="24881.3984" Y="11797.6787"/>
+				<Coordinate Order="9" X="25145.0645" Y="12085.5586"/>
+				<Coordinate Order="10" X="25344.1582" Y="12403.0332"/>
+				<Coordinate Order="11" X="25360.3008" Y="12771.626"/>
+				<Coordinate Order="12" X="25492.1328" Y="12976.1016"/>
+				<Coordinate Order="13" X="25992.5605" Y="12994.9346"/>
+				<Coordinate Order="14" X="26710.9141" Y="12873.8643"/>
+				<Coordinate Order="15" X="27152.1484" Y="12790.459"/>
+				<Coordinate Order="16" X="27283.9824" Y="12763.5547"/>
+				<Coordinate Order="17" X="27388.9102" Y="12637.1035"/>
+				<Coordinate Order="18" X="27555.7188" Y="12478.3662"/>
+				<Coordinate Order="19" X="27692.9316" Y="12093.6299"/>
+				<Coordinate Order="20" X="27687.5508" Y="11531.3232"/>
+				<Coordinate Order="21" X="27657.957" Y="11208.4678"/>
+				<Coordinate Order="22" X="27569.1699" Y="10713.4219"/>
+				<Coordinate Order="23" X="27526.123" Y="10382.4951"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate X="20850" Y="11471"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+			<Coordinates>
+				<Coordinate Order="0" X="20338" Y="10959"/>
+				<Coordinate Order="1" X="21362" Y="10959"/>
+				<Coordinate Order="2" X="21362" Y="11983"/>
+				<Coordinate Order="3" X="20338" Y="11983"/>
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="ROI_422" Type="Polygon" PartOfGroup="None" Color="#73d216">
+			<Coordinates>
+				<Coordinate Order="0" X="20727.7617" Y="10373.5908"/>
+				<Coordinate Order="1" X="20344.1836" Y="10851.8496"/>
+				<Coordinate Order="2" X="20210.6602" Y="11946.7451"/>
+				<Coordinate Order="3" X="20827.2969" Y="12352.1719"/>
+				<Coordinate Order="4" X="21118.6211" Y="12335.1787"/>
+				<Coordinate Order="5" X="21900.3438" Y="12022.0039"/>
+				<Coordinate Order="6" X="22218.373" Y="11434.499"/>
+				<Coordinate Order="7" X="22201.3789" Y="10827.5723"/>
+				<Coordinate Order="8" X="22060.5723" Y="10492.5488"/>
+				<Coordinate Order="9" X="21795.9512" Y="10254.6338"/>
+				<Coordinate Order="10" X="21630.8672" Y="10191.5137"/>
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+</ASAP_Annotations>
