@@ -43,12 +43,12 @@
 				<Coordinate Order="8" X="25777.7598" Y="70214.7109"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_1" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="23332" Y="70336"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_1" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="22820" Y="69824"/>
 				<Coordinate Order="1" X="23844" Y="69824"/>

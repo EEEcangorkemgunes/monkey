@@ -46,12 +46,12 @@
 				<Coordinate Order="14" X="17922.9512" Y="7072.9541"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_0" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_2" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="13370" Y="7572"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_0" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_2" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="12858" Y="7060"/>
 				<Coordinate Order="1" X="13882" Y="7060"/>
@@ -59,12 +59,12 @@
 				<Coordinate Order="3" X="12858" Y="8084"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_1" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_3" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="14394" Y="7572"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_1" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_3" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="13882" Y="7060"/>
 				<Coordinate Order="1" X="14906" Y="7060"/>
@@ -72,12 +72,12 @@
 				<Coordinate Order="3" X="13882" Y="8084"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_2" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_4" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="12346" Y="8596"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_2" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_4" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="11834" Y="8084"/>
 				<Coordinate Order="1" X="12858" Y="8084"/>
@@ -85,12 +85,12 @@
 				<Coordinate Order="3" X="11834" Y="9108"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_3" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_5" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="13370" Y="8596"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_3" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_5" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="12858" Y="8084"/>
 				<Coordinate Order="1" X="13882" Y="8084"/>
@@ -98,12 +98,12 @@
 				<Coordinate Order="3" X="12858" Y="9108"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_4" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_6" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="14394" Y="8596"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_4" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_6" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="13882" Y="8084"/>
 				<Coordinate Order="1" X="14906" Y="8084"/>
@@ -111,12 +111,12 @@
 				<Coordinate Order="3" X="13882" Y="9108"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_5" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_7" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="15418" Y="8596"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_5" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_7" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="14906" Y="8084"/>
 				<Coordinate Order="1" X="15930" Y="8084"/>
@@ -124,12 +124,12 @@
 				<Coordinate Order="3" X="14906" Y="9108"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_6" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_8" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="13370" Y="9620"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_6" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_8" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="12858" Y="9108"/>
 				<Coordinate Order="1" X="13882" Y="9108"/>
@@ -137,12 +137,12 @@
 				<Coordinate Order="3" X="12858" Y="10132"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Center_7" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Center_9" Type="Dot" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate X="14394" Y="9620"/>
 			</Coordinates>
 		</Annotation>
-		<Annotation Name="Patch_7" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
+		<Annotation Name="Patch_9" Type="Rectangle" PartOfGroup="None" Color="255, 0, 0">
 			<Coordinates>
 				<Coordinate Order="0" X="13882" Y="9108"/>
 				<Coordinate Order="1" X="14906" Y="9108"/>

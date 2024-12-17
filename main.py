@@ -15,7 +15,7 @@ monocyte = 1
 pas_cpg_images_path = "images/pas-cpg"
 patch_annotations_path = "patch_annotations/xml"
 pas_cpg_annotations_path = "annotations/json"
-pas_cpg_annotations_xml_path = "annotations/xml"
+pas_cpg_annotations_xml_path = "new_annotations/xml"
 patch_images_path = "patches"
 patch_tif_images_path = "patches_tif"
 trial_file = "A_P000001_inflammatory-cells.json"
@@ -25,8 +25,8 @@ os.makedirs(patch_tif_images_path, exist_ok=True)
 
 
 patch_size = 1024
-monocyte_box_size = 24
-lymphocyte_box_size = 16
+monocyte_box_size = 30
+lymphocyte_box_size = 20
 train_ratio = 0.8
 
 
@@ -48,7 +48,6 @@ def createImages():
                     "RGB").save(patch_images_path + "/" + fileName[:9] + f"_inflammatory-cells_{i}.png")
                 i += 1
 
-
 patchId = 0
 dataset_dict = []
 for fileName in os.listdir(pas_cpg_annotations_xml_path):
@@ -63,7 +62,7 @@ for fileName in os.listdir(pas_cpg_annotations_xml_path):
                     "Coordinates").findall("Coordinate")
                 patches.append([int(coordinates[0].get("X")),
                                int(coordinates[0].get("Y")), patchId])
-                patch_last_char = annotation.get("Name")[-1]
+                patch_last_char = annotation.get("Name")[annotation.get("Name").find("_") + 1:]
                 patchesDict.append({"file_name": os.path.join(patch_images_path, fileName[:9] + f"_inflammatory-cells_{patch_last_char}.png"), "imageId": str(
                     patchId), "height": patch_size, "width": patch_size, "annotations": []})
                 patchId += 1
@@ -88,6 +87,7 @@ for fileName in os.listdir(pas_cpg_annotations_xml_path):
                             {"bbox": [x_min, y_min, w, h], "bbox_mode": BoxMode.XYWH_ABS, "category_id": lymphocyte if annotation.get("PartOfGroup") == "lymphocytes" else monocyte})
                         break
     dataset_dict.extend(patchesDict)
+
 
 random.seed(42)
 random.shuffle(dataset_dict)

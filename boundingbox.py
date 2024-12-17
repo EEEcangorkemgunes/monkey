@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
 
 
-read_file = "train.json"
+read_file = "test.json"
 output_path = "bounding_boxes"
 output_image_path = "bounding_boxes_images"
 with open(read_file, "r") as f:

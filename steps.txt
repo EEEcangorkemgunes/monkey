@@ -1,0 +1,2 @@
+1- Artık model input olarak test patchlerini değil bir adet tif dosyası ile bir adet mask dosyası almalı ve sonucu buna göre vermeli.
+2- 

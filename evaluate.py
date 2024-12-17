@@ -30,7 +30,7 @@ def main():
 
     cfg.DATASETS.TEST = ("kidney_patches_eval",)
     cfg.MODEL.WEIGHTS = model_weights
-    cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.2
+    cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.5
     cfg.MODEL.DEVICE = "cuda"
 
     predictor = DefaultPredictor(cfg)
